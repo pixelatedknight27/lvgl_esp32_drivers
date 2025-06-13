@@ -37,7 +37,7 @@
 extern "C" {
 #endif
 
-#define FT6236_I2C_SLAVE_ADDR   0x38
+#define FT6236_I2C_SLAVE_ADDR   0x15
 
 /* Maximum border values of the touchscreen pad that the chip can handle */
 #define  FT6X36_MAX_WIDTH              ((uint16_t)800)
